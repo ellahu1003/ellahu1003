@@ -4,8 +4,8 @@ My name is Ella👋, I recently completed a Data Science Bootcamp at Imperial Co
 - 🎓 My academic background is in Economics and Political Science, enabling me to approach problems with both analytical rigour and strategic insight 
 - 💻 I'm currently working on: A Stock Price Prediction project using LSTM neural network model for time series
 - 🚀 I’m particularly enthusiastic about roles in AI, machine learning, and data science
-- 🎶 I am deeply passionate about performing arts, I achieved ABRSM Grade 8 in flute and Grade 8 in LAMDA
-- 🌏 I am fluent in three languages, English, Mandarin, and Cantonese
+- - 🌏 I am fluent in three languages, English, Mandarin, and Cantonese
+- 🎶 I am also passionate about performing arts, I achieved ABRSM Grade 8 in flute and Grade 8 in LAMDA
 
 Feel free to reach out to me about work opportunities and collaboration. I’m always excited to connect with like-minded professionals and explore new projects together!🤝 
 
