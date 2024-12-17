@@ -7,5 +7,5 @@ My name is Ella👋, I recently completed a Data Science Bootcamp at Imperial Co
 - 🌏 I am fluent in three languages, English, Mandarin, and Cantonese
 - 🎶 I am also passionate about performing arts, I achieved ABRSM Grade 8 in flute and Grade 8 in LAMDA
 
-Feel free to reach out to me about work opportunities and collaboration. I’m always excited to connect with like-minded professionals and explore new projects together!🤝 
+
 
